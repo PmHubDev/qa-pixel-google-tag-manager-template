@@ -1,0 +1,1 @@
+# qa-pixel-google-tag-manager-template
